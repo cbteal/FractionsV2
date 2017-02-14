@@ -7,7 +7,7 @@ USER INSTRUCTIONS:
 The program requires a txt file populated with fractions in the format
 NUM/DENOM separated by white space.
 
-1) Enter filename in the variable filename. Be careful of absolute path; file in the same folder recommended.
+1) Enter filename in the variable filename. Be careful of absolute path; file in the text file folder recommended.
 
 2) Run main in the Driver Class
 
