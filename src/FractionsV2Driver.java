@@ -13,7 +13,7 @@ public class FractionsV2Driver
 {
     public static void main(String[] args){
 	String path = "../txtFiles/";
-        String fileName = "fractions.txt";
+        String fileName = "testfile.txt";
 	//String fileName = "bigFileTest.txt";
         //String fileName = "testemptyfile.txt";
         //String fileName = "testNegs.txt";
