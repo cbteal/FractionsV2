@@ -7,8 +7,8 @@ USER INSTRUCTIONS:
 The program requires a txt file populated with fractions in the format
 NUM/DENOM separated by white space.
 
-1) Enter filename in the variable filename. Be careful of absolute path; file inthe same folder recommended.
+1) Enter filename in the variable filename. Be careful of absolute path; file in the same folder recommended.
 
-2) Run main
+2) Run main in the Driver Class
 
-NOTES: This is an introductory assignment to OOP and will serve as a baseline for future projects to identify progress and improved knowledge.
+NOTES: This is an introductory assignment to OOP and will serve as a baseline for future projects to identify progress and improved knowledge. Comments need improvement.
