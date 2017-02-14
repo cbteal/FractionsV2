@@ -14,9 +14,9 @@ public class FractionsV2Driver
     public static void main(String[] args){
 	String path = "../txtFiles/";
         String fileName = "fractions.txt";
+	//String fileName = "bigFileTest.txt";
         //String fileName = "testemptyfile.txt";
         //String fileName = "testNegs.txt";
-        //String fileName = "testHugeFile.txt";
         //String fileName = "testFormat.txt";
         File inputFile = new File(path + fileName);
         Scanner input = null;
