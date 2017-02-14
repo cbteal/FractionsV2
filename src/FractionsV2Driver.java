@@ -12,7 +12,7 @@ import java.io.File;
 public class FractionsV2Driver
 {
     public static void main(String[] args){
-	String path = "../";
+	String path = "../txtFiles/";
         String fileName = "fractions.txt";
         //String fileName = "testemptyfile.txt";
         //String fileName = "testNegs.txt";
